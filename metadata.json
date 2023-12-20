@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "name": "Octopus",
+        "description": "Octopus with hat",
+        "image": "https://example.com/image1.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Lobster",
+        "description": "Lobster with a hat",
+        "image": "https://example.com/image2.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Clown Fish",
+        "description": "Clown Fish with a hat",
+        "image": "https://example.com/image2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Whale Shark",
+        "description": "Whale Shark with a hat",
+        "image": "https://example.com/image2.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Shark",
+        "description": "Shark with a hat",
+        "image": "https://example.com/image2.jpg"
+    }
+]
